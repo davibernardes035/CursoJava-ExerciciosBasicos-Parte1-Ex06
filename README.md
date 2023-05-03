@@ -1,4 +1,4 @@
-# Curso Java Exercícios Básicos Parte1 - Exercício 02
+# Curso Java Exercícios Básicos Parte1 - Exercício 06
 ## Exercícios básicos feitos em Java para o Curso Java do Prof. Nélio Alves
 
 Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e 
